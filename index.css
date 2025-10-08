@@ -5,7 +5,7 @@ body{
 }
 
 .navbar {
-    background-color: rgb(247, 73, 73);
+    background-color: rgb(68, 156, 17);
     margin: 0; 
     padding: 10px;
     display: flex;
@@ -14,7 +14,7 @@ body{
 
 
 .nav-link:hover{
-    background-color: rgb(9, 0, 133);
+    background-color: rgb(0, 105, 44);
     border-radius:30px;
     padding:10px;
 }
